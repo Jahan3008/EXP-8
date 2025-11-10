@@ -35,21 +35,39 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 ## CIRCUIT DIAGRAMS
-### Half wave rectifier with filter:
+### Half wave rectifier:
+![WhatsApp Image 2025-11-10 at 10 00 22 AM](https://github.com/user-attachments/assets/66f6e949-db0c-4e02-baeb-803add4dffa1)
 
-### Bridge rectifier with filter:
+### Full wave rectifier:
+![WhatsApp Image 2025-11-10 at 10 00 21 AM](https://github.com/user-attachments/assets/7d6f0756-b467-4d26-b769-adea5cc0dd0e)
 
 ## TABULAR COLUMN
-### Rectifier without filter
+### Half wave Rectifier
+![WhatsApp Image 2025-11-10 at 9 52 49 AM](https://github.com/user-attachments/assets/ca41f1ab-6f60-4b26-80de-dabf634a0a2b)
 
-### Rectifier with filter
+### Full wave rectifier
+![WhatsApp Image 2025-11-10 at 9 52 48 AM (1)](https://github.com/user-attachments/assets/626a0074-60fc-47c0-a94f-09e877dae548)
+
+## Model graph:
+### Half wave rectifier:
+![WhatsApp Image 2025-11-10 at 9 52 49 AM (1)](https://github.com/user-attachments/assets/2660b84f-6365-4333-9de2-984e46ae2330)
+
+### Full wave rectifier:
+![WhatsApp Image 2025-11-10 at 9 52 48 AM](https://github.com/user-attachments/assets/cd3fc37a-74f3-4a08-9a77-13e885c2bf92)
 
 ## WAVEFORM:
 ### Half wave rectifier with filter:
+![WhatsApp Image 2025-11-04 at 6 06 57 PM](https://github.com/user-attachments/assets/eefee621-25e6-416e-ae81-2aceb4497e44)
 
-### Bridge rectifier with filter:
+### Half wave rectifier without filter:
+![WhatsApp Image 2025-11-04 at 6 07 21 PM (2)](https://github.com/user-attachments/assets/27bb647c-cd86-47f9-a4bf-1875527756a4)
 
-### 
+### Full wave rectifier with filter:
+![WhatsApp Image 2025-11-04 at 6 07 52 PM](https://github.com/user-attachments/assets/b0ab3ea4-b5fb-458a-919a-046ea27cdec4)
+
+### Full wave rectifier without filter:
+![WhatsApp Image 2025-11-04 at 6 07 21 PM (1)](https://github.com/user-attachments/assets/a2c3d7e1-7306-412e-ad9c-c2d9c33c7089)
+
 
 ## RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
