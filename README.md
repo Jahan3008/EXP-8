@@ -36,24 +36,21 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ## CIRCUIT DIAGRAMS
 ### Half wave rectifier:
-![WhatsApp Image 2025-11-10 at 10 00 22 AM](https://github.com/user-attachments/assets/66f6e949-db0c-4e02-baeb-803add4dffa1)
+![WhatsApp Image 2025-11-16 at 20 07 07_3fd3cf81](https://github.com/user-attachments/assets/d60e1fdc-cfff-4b89-bbf0-68169afb8790)
+
 
 ### Full wave rectifier:
-![WhatsApp Image 2025-11-10 at 10 00 21 AM](https://github.com/user-attachments/assets/7d6f0756-b467-4d26-b769-adea5cc0dd0e)
+
+![WhatsApp Image 2025-11-16 at 20 08 10_6f39cc93](https://github.com/user-attachments/assets/d4927465-1455-46b1-8315-832d6a0739fc)
+
 
 ## TABULAR COLUMN
 ### Half wave Rectifier
-![WhatsApp Image 2025-11-10 at 9 52 49 AM](https://github.com/user-attachments/assets/ca41f1ab-6f60-4b26-80de-dabf634a0a2b)
+![WhatsApp Image 2025-11-16 at 20 08 47_832a4265](https://github.com/user-attachments/assets/09e12958-bfb6-44a1-9d3d-597a8436114e)
+
 
 ### Full wave rectifier
-![WhatsApp Image 2025-11-10 at 9 52 48 AM (1)](https://github.com/user-attachments/assets/626a0074-60fc-47c0-a94f-09e877dae548)
-
-## Model graph:
-### Half wave rectifier:
-![WhatsApp Image 2025-11-10 at 9 52 49 AM (1)](https://github.com/user-attachments/assets/2660b84f-6365-4333-9de2-984e46ae2330)
-
-### Full wave rectifier:
-![WhatsApp Image 2025-11-10 at 9 52 48 AM](https://github.com/user-attachments/assets/cd3fc37a-74f3-4a08-9a77-13e885c2bf92)
+![WhatsApp Image 2025-11-16 at 20 09 15_3d984cc3](https://github.com/user-attachments/assets/47d9ea44-84e6-4c0d-8b83-ffd2919c445c)
 
 ## WAVEFORM:
 ### Half wave rectifier with filter:
